@@ -1,0 +1,8 @@
+* text=auto
+*.cs text
+*.ps1 text
+*.js text
+*.md text
+*.yml text eol=lf
+*.ico binary
+NODE-LICENSE-*.txt -text -whitespace
